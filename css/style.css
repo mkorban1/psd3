@@ -1,0 +1,146 @@
+header{
+	margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 8px solid #8080805c;
+    
+}
+nav{
+    margin-top: 23px;
+    position: fixed;
+}
+nav ul{
+	
+}
+
+nav ul li{
+	display: inline;
+    margin-left: 50px;
+    text-transform: uppercase;
+}
+
+
+nav ul li a{
+	
+}
+.contact-us{
+	background: #ee4a3f;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+h1{
+	color: white;
+	margin-bottom: 23px;
+}
+p{
+	color: white;
+	padding-top: 20px;
+}
+.one{
+	    width: 100%;
+    background: #ff6258;
+    border: none;
+    height: 37px;
+}
+.btn{
+	background: none;
+    border: none;
+    color: white;
+    margin-top: 55px;
+    font-size: 36px;
+    font-family: "Brush Script MT";
+    transition: 0.5s;
+}
+footer{
+	background: #ef4035;
+	padding: 30px 0px;
+}
+label{
+	color: white;
+}
+h5{
+	text-align: center;
+	color: white;
+    font-size: 15px;
+
+}
+
+
+@media (min-width: 320px) and (max-width: 500px) {
+
+        header{
+    margin-top: 30px;
+    padding-bottom: 30px;
+    border-bottom: 8px solid #8080805c;
+    
+}
+nav{
+    margin-top: 23px;
+    position: fixed;
+}
+nav ul{
+    
+}
+
+nav ul li{
+    display: inline;
+    margin-left: 50px;
+    text-transform: uppercase;
+}
+
+
+nav ul li a{
+    
+}
+.contact-us{
+    background: #ee4a3f;
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+h1{
+    color: white;
+    margin-bottom: 23px;
+}
+p{
+    color: white;
+    padding-top: 20px;
+}
+.one{
+        width: 100%;
+    background: #ff6258;
+    border: none;
+    height: 37px;
+}
+.btn{
+    background: none;
+    border: none;
+    color: white;
+    margin-top: 55px;
+    font-size: 36px;
+    font-family: "Brush Script MT";
+    transition: 0.5s;
+}
+footer{
+    background: #ef4035;
+    padding: 30px 0px;
+}
+label{
+    color: white;
+}
+h5{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+
+}
+
+}
+@media (min-width: 500.01px) and (max-width: 768px) {
+    
+}
+@media (min-width: 768.01px) and (max-width: 1200px) {
+    
+}
+
+@media (min-width: 768.01px) {
+    
+}

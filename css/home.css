@@ -1,0 +1,232 @@
+header{
+	background: url(../img/bannerone.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 30px;
+    
+}
+
+nav{
+    padding-top: 20px;
+    position: fixed;
+}
+nav ul{
+    
+}
+
+nav ul li{
+    display: inline;
+    margin-left: 50px;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+nav ul li a{
+        color: white;
+}
+h2{
+	color: white;
+    background: #30333375;
+    margin-top: 100px;
+    padding:10px;
+}
+p{
+	color: white;
+	padding-bottom: 50px;
+}
+.Underline{
+	border-top: 1px solid white;
+    width: 35px;
+    margin: 10px;
+    display: block;
+    padding-bottom: 50px;
+}
+button{
+	background: transparent;
+    color: white;
+    padding: 10px 102px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 280px;
+    margin-top: 80px;
+    transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+}
+.banner{
+	background-color: #f6f6f6;
+}
+.Underlinetwo{
+    border-top: 2px solid black;
+    width: 25px;
+    margin: 10px;
+    display: block;
+    padding-bottom: 50px;
+}
+.pone{
+    color: #a9a9a9;
+}
+.parent{
+    position: relative;
+}
+.child{
+    position: absolute;
+    max-width: 100%;
+    top: -15px;
+}
+
+.banner {
+    background-color: #f6f6f6;
+    padding-top: 200px;
+    padding-bottom: 113px;
+}
+h1{
+    font-size: 53px;
+}
+.banner-two{
+    background-color: #28282e;
+    padding-top: 200px;
+}
+h3{
+    color: white;
+        font-size: 53px;
+}
+
+.car{
+    padding-left: 28px;
+    margin-top: 28px;
+}
+footer{
+    background: #ef4035;
+    padding: 30px 0px;
+}
+h5{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+
+}
+
+
+@media (min-width: 320px) and (max-width: 500px) {
+    header{
+    background: url(../img/bannerone.png);
+    width: 100%;
+}
+
+nav{
+    padding-top: 20px;
+    position: fixed;
+}
+nav ul{
+    
+}
+
+nav ul li{
+    display: inline;
+    margin-left: 50px;
+    text-transform: uppercase;
+    color: white;
+}
+
+
+nav ul li a{
+        color: white;
+}
+h2{
+    color: white;
+    background: #30333375;
+    margin-top: 100px;
+    padding:10px;
+}
+p{
+    color: white;
+    padding-bottom: 50px;
+}
+.Underline{
+    border-top: 1px solid white;
+    width: 35px;
+    margin: 10px;
+    display: block;
+    padding-bottom: 50px;
+}
+button{
+    background: transparent;
+    color: white;
+    padding: 10px 102px;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 280px;
+    margin-top: 80px;
+    transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+}
+.banner{
+    background-color: #f6f6f6;
+}
+.Underlinetwo{
+    border-top: 2px solid black;
+    width: 25px;
+    margin: 10px;
+    display: block;
+    padding-bottom: 50px;
+}
+.pone{
+    color: #a9a9a9;
+}
+.parent{
+    position: relative;
+}
+.child{
+    position: absolute;
+    max-width: 100%;
+    top: -15px;
+}
+
+.banner {
+    background-color: #f6f6f6;
+    padding-top: 200px;
+    padding-bottom: 113px;
+}
+h1{
+    font-size: 53px;
+}
+.banner-two{
+    background-color: #28282e;
+    padding-top: 200px;
+}
+h3{
+    color: white;
+        font-size: 53px;
+}
+
+.car{
+    padding-left: 28px;
+    margin-top: 28px;
+}
+footer{
+    background: #ef4035;
+    padding: 30px 0px;
+}
+h5{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+
+}
+
+}
+
+@media (min-width: 500.01px) and (max-width: 768px) {
+
+    
+}
+
+
+@media (min-width: 768.01px) and (max-width: 1200px) {
+    
+}
+
+@media (min-width: 768.01px) {
+    
+}
